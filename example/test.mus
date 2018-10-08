@@ -1,0 +1,17 @@
+#Another Music Test
+tempo:120
+F 4 1
+F 5 2
+F 4 4
+F 5 8
+F 6 16
+F 5 32
+F 6 64
+F 5 128
+F 6 64
+F 5 32
+F 6 16
+F 5 8
+F 4 4
+F 5 2
+F 4 1

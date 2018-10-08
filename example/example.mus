@@ -1,0 +1,35 @@
+# Scale Tests
+tempo: 120
+#NoteName Octave Duration
+#C major
+C 4 1
+D 4 2
+E 4 2
+F 4 2
+G 4 2
+A 4 2
+B 4 2
+C 5 1
+B 4 2
+A 4 2
+G 4 2
+F 4 2
+E 4 2
+D 4 2
+C 4 1
+#C Sharp Major
+C# 4 2
+D# 4 4
+E# 4 4
+F# 4 4
+G# 4 4
+A# 4 4
+B# 4 4
+C# 5 2
+B# 4 4
+A# 4 4
+G# 4 4
+F# 4 4
+E# 4 4
+D# 4 4
+C# 4 2
